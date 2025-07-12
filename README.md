@@ -1,4 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e56a6615-0d61-4246-99c1-d5d99d6b2d74/deploy-status)](https://app.netlify.com/projects/rent0ra/deploys)
+
 # Rentora
+
+## 🌐 Live Demo
+
+Check out the live frontend on **Netlify**:  
+🔗 [https://rent0ra.netlify.app/](https://rent0ra.netlify.app/)
+
 
 ## Overview
 
