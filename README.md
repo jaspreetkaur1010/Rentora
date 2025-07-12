@@ -5,8 +5,7 @@
 ## 🌐 Live Demo
 
 Check out the live frontend on **Netlify**:  
-🔗 [https://rent0ra.netlify.app/](https://rent0ra.netlify.app/)
-
+🔗 [https://rentorra.netlify.app/](https://rentorra.netlify.app/)
 
 ## Overview
 
