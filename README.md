@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e56a6615-0d61-4246-99c1-d5d99d6b2d74/deploy-status)](https://app.netlify.com/projects/rent0ra/deploys)
 
 # Rentora
 
